@@ -2214,3 +2214,11 @@ ul { list-style: none; }
     display: block;
   }
 }
+
+.hero-warning {
+  margin-top: 15px;
+  font-size: 14px;
+  color: #ffcc00;
+  max-width: 500px;
+  line-height: 1.5;
+}
