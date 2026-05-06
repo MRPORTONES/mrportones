@@ -2217,7 +2217,7 @@ ul { list-style: none; }
 .hero-warning {
   margin-top: 15px;
   font-size: 14px;
-  color: #ffcc00;
+  color: #ffcc00 !important;
   max-width: 500px;
   line-height: 1.5;
 }
